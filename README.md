@@ -16,7 +16,7 @@ Installed packages:
 ### Docker
 
 ```
-docker run -it --rm ghcr.io/heptalium/toolbox`
+docker run -it --rm ghcr.io/heptalium/toolbox
 ```
 
 ### Kubernetes
