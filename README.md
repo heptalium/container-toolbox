@@ -19,6 +19,12 @@ Installed packages:
 docker run -it --rm ghcr.io/heptalium/toolbox
 ```
 
+### Podman
+
+```
+podman run -it --rm ghcr.io/heptalium/toolbox
+```
+
 ### Kubernetes
 
 ```
