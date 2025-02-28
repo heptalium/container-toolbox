@@ -9,6 +9,8 @@ Installed packages:
 * curl
 * htop
 * less
+* netcat-openbsd
+* openssl
 * vim
 
 ## Usage
